@@ -62,6 +62,7 @@
 		AFF0A8EB2B8CADD800A1CB8E = {
 			isa = PBXGroup;
 			children = (
+				AF94C29D2B8E5EF4001314FD /* readme.md */,
 				AFF0A8F62B8CADD800A1CB8E /* TapptitudeCodingInterview */,
 				AFF0A8F52B8CADD800A1CB8E /* Products */,
 			);
@@ -85,7 +86,6 @@
 				AFF0A8F92B8CADD800A1CB8E /* ContentView.swift */,
 				AFF0A9052B8CAE6000A1CB8E /* CustomTabBar.swift */,
 				AF8323CE2B8CC641005C8DCB /* Views */,
-				AF94C29D2B8E5EF4001314FD /* readme.md */,
 			);
 			path = TapptitudeCodingInterview;
 			sourceTree = "<group>";
