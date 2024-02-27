@@ -1,7 +1,7 @@
 # Documentation for TapptitudeCodingInterview App
 
 ## General Description
-This application is an interview project for Tapptitude, created to demonstrate skills in SwiftUI and user interface handling.
+This application was created to demonstrate skills in SwiftUI and user interface handling.
 
 ## File Structure
 - `ContentView.swift`: Contains the main ContentView structure and tab definitions.
